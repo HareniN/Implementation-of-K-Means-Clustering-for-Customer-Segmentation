@@ -75,20 +75,21 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-```
+
 <img width="616" height="503" alt="image" src="https://github.com/user-attachments/assets/9c890ad8-7b94-43e3-bc96-c1a2cfb04e97" />
-```
+_______________________________________________________________________________________________________________________________________
+
 <img width="606" height="262" alt="image" src="https://github.com/user-attachments/assets/72c64d7d-4e30-428a-8c44-6c9b9a6cc536" />
--```
+_______________________________________________________________________________________________________________________________________
 
 <img width="467" height="276" alt="image" src="https://github.com/user-attachments/assets/480cb3dd-c906-4adf-af16-bb7d998f9404" />
-```
+_______________________________________________________________________________________________________________________________________
 
 <img width="394" height="271" alt="image" src="https://github.com/user-attachments/assets/71aa6a8c-4c9b-45df-a948-32437747925b" />
-```
+_______________________________________________________________________________________________________________________________________
 
 <img width="687" height="691" alt="Screenshot 2026-02-26 152613" src="https://github.com/user-attachments/assets/d70ad5c6-3444-4af9-b1bc-166ea44303cc" />
-```
+_______________________________________________________________________________________________________________________________________
 
 <img width="766" height="745" alt="Screenshot 2026-02-26 152650" src="https://github.com/user-attachments/assets/a7f02b40-7a06-4e69-bdd9-0683dd9733d7" />
 
